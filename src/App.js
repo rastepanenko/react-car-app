@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import React, { useEffect, useState } from 'react';
 import Car from './Car';
 import Model from './Model';
 import GearBoxSection from './GearBoxSection';

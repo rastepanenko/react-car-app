@@ -1,7 +1,6 @@
 import React from 'react'
 
 export default function Car() {
-
     function clearModelsList(modelsElement) {
         var modelsElementLength = modelsElement.options.length;
         
